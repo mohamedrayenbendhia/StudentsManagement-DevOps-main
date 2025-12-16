@@ -1,4 +1,3 @@
-cat <<EOL > Jenkinsfile
 pipeline {
     agent any
 
@@ -33,4 +32,3 @@ pipeline {
         }
     }
 }
-EOL
